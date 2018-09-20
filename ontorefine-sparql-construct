@@ -1,0 +1,49 @@
+PREFIX lod: <http://lod.eurohelp.es/>
+PREFIX spif: <http://spinrdf.org/spif#>
+
+# Example RDF transformation using the custom IRIs and type
+CONSTRUCT {
+	?myRowId a lod:Row ;
+		lod:Microsatellite_ID ?Microsatellite_ID ;
+		lod:Motif ?Motif ;
+		lod:Target_region_sequence ?Target_region_sequence ;
+		lod:Primer_F ?Primer_F ;
+		lod:Column ?Column ;
+		lod:Column2 ?Column2 ;
+		lod:Primer_R ?Primer_R ;
+		lod:Column3 ?Column3 ;
+		lod:Column4 ?Column4 ;
+		lod:Sequence ?Sequence ;
+		lod:BLAST_results ?BLAST_results ;
+		lod:Column5 ?Column5 ;
+		lod:Column6 ?Column6 ;
+		lod:Column7 ?Column7 ;
+		lod:Column8 ?Column8 ;
+		lod:Column9 ?Column9 ;
+		lod:Column10 ?Column10 .
+} WHERE {
+	# Triple patterns for accessing each row and the columns in contains
+	# Note that no triples will be generated for NULL values in the table
+	# You should inspect your data in Refine mode and add OPTIONAL accordingly
+	?row a lod:Row ;
+		lod:Microsatellite_ID ?Microsatellite_ID ;
+		lod:Motif ?Motif ;
+		lod:Target_region_sequence ?Target_region_sequence ;
+		lod:Primer_F ?Primer_F ;
+		lod:Column ?Column ;
+		lod:Column2 ?Column2 ;
+		lod:Primer_R ?Primer_R ;
+		lod:Column3 ?Column3 ;
+		lod:Column4 ?Column4 ;
+		lod:Sequence ?Sequence ;
+		lod:BLAST_results ?BLAST_results ;
+		lod:Column5 ?Column5 ;
+		lod:Column6 ?Column6 ;
+		lod:Column7 ?Column7 ;
+		lod:Column8 ?Column8 ;
+		lod:Column9 ?Column9 ;
+		lod:Column10 ?Column10 .
+
+	# Example construction of new IRIs for each row
+	BIND(IRI(spif:buildString("http://lod.eurohelp.es/{?1}", ENCODE_FOR_URI(?Microsatellite_ID))) AS ?myRowId)
+} LIMIT 100
