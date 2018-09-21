@@ -3,7 +3,7 @@ PREFIX spif: <http://spinrdf.org/spif#>
 
 # Example RDF transformation using the custom IRIs and type
 CONSTRUCT {
-	?myRowId a lod:Row ;
+	?myRowId a <http://purl.obolibrary.org/obo/SO_0000289> ;
 		lod:Microsatellite_ID ?Microsatellite_ID ;
 		lod:Motif ?Motif ;
 		lod:Target_region_sequence ?Target_region_sequence ;
