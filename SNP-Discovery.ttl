@@ -17345,1022 +17345,1022 @@
 
 <http://lod.eurohelp.es/Eenc_6_contig09716-134> <http://lod.eurohelp.es/Column9> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig00427-318> <http://lod.eurohelp.es/Column10> "Esox lucius" .
+<http://lod.eurohelp.es/Eenc_2_contig00427-318> <http://purl.uniprot.org/core/organism> "Esox lucius" .
 
-<http://lod.eurohelp.es/Eenc_2_contig00997-272> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig00997-272> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig01351-167> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig01351-167> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig01422-91> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_2_contig01422-91> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_2_contig01444-275> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig01444-275> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig02104-409> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_2_contig02104-409> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_2_contig02380-158> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig02380-158> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig02397-180> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig02397-180> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03047-448> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03047-448> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03077-244> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03077-244> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03125-1136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03125-1136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03125-453> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03125-453> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03325-283> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03325-283> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig03938-140> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig03938-140> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig04193-132> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig04193-132> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig04563-59> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig04563-59> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig04957-286> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig04957-286> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05002-369> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig05002-369> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05002-547> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig05002-547> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05255-272> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig05255-272> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05296-211> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig05296-211> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05414-357> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig05414-357> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05425-710> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig05425-710> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05848-334> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig05848-334> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig05936-205> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig05936-205> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06221-166> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06221-166> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06274-158> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06274-158> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06311-311> <http://lod.eurohelp.es/Column10> "Oncorhynchus mykiss" .
+<http://lod.eurohelp.es/Eenc_2_contig06311-311> <http://purl.uniprot.org/core/organism> "Oncorhynchus mykiss" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06490-21> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06490-21> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06538-232> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06538-232> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06629-192> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06629-192> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig06909-218> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig06909-218> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig07124-134> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig07124-134> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig07538-226> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig07538-226> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig07569-128> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig07569-128> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig07596-81> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig07596-81> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08148-57> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08148-57> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08187-30> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08187-30> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08193-37> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08193-37> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08795-684> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_2_contig08795-684> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08800-644> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08800-644> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08808-1943> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig08808-1943> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08817-1265> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig08817-1265> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08819-220> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig08819-220> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08819-64> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig08819-64> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08831-1110> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08831-1110> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08860-685> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig08860-685> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08861-1655> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08861-1655> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08867-1094> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08867-1094> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08898-190> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08898-190> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08909-174> <http://lod.eurohelp.es/Column10> "Oncorhynchus mykiss" .
+<http://lod.eurohelp.es/Eenc_2_contig08909-174> <http://purl.uniprot.org/core/organism> "Oncorhynchus mykiss" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08922-917> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig08922-917> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08949-79> <http://lod.eurohelp.es/Column10> "Dicentrarchus labrax" .
+<http://lod.eurohelp.es/Eenc_2_contig08949-79> <http://purl.uniprot.org/core/organism> "Dicentrarchus labrax" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08968-1477> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08968-1477> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08978-295> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08978-295> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig08991-1136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig08991-1136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09002-752> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09002-752> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09004-701> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09004-701> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09017-400> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09017-400> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09026-1287> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09026-1287> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09034-1301> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09034-1301> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09040-800> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09040-800> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09066-1172> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09066-1172> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09078-1368> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09078-1368> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09095-841> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09095-841> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09125-66> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09125-66> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09140-874> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09140-874> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09153-477> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09153-477> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09157-410> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09157-410> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09161-561> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09161-561> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09171-502> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09171-502> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09195-390> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09195-390> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09222-880> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09222-880> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09225-233> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09225-233> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09228-1081> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09228-1081> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09320-313> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09320-313> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09337-873> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09337-873> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09339-1037> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09339-1037> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09421-414> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09421-414> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09442-588> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09442-588> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09481-197> <http://lod.eurohelp.es/Column10> "Cyprinus carpio" .
+<http://lod.eurohelp.es/Eenc_2_contig09481-197> <http://purl.uniprot.org/core/organism> "Cyprinus carpio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09495-112> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09495-112> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09496-159> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09496-159> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09499-1130> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09499-1130> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09542-836> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09542-836> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09546-410> <http://lod.eurohelp.es/Column10> "Osmerus mordax" .
+<http://lod.eurohelp.es/Eenc_2_contig09546-410> <http://purl.uniprot.org/core/organism> "Osmerus mordax" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09550-423> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09550-423> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09564-826> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09564-826> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09575-1064> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09575-1064> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09662-193> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig09662-193> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09662-383> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig09662-383> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09720-680> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09720-680> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09757-363> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09757-363> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09800-125> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09800-125> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09800-88> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09800-88> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09816-544> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09816-544> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09850-220> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig09850-220> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09884-71> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09884-71> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09920-851> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig09920-851> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09965-79> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig09965-79> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig09993-146> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig09993-146> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10025-309> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig10025-309> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10030-303> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10030-303> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10030-53> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10030-53> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10096-622> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10096-622> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10168-711> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10168-711> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10239-134> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10239-134> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10240-321> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10240-321> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10242-40> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10242-40> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10264-463> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10264-463> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10280-34> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_2_contig10280-34> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10305-91> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10305-91> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10321-927> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10321-927> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10325-98> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10325-98> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10345-533> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10345-533> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10465-803> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10465-803> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10494-517> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10494-517> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10504-445> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10504-445> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10543-433> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10543-433> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10561-913> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10561-913> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10583-61> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10583-61> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10675-821> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10675-821> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10753-774> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10753-774> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10759-246> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10759-246> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10761-220> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_2_contig10761-220> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10772-768> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10772-768> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10777-634> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10777-634> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10812-113> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10812-113> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10873-165> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10873-165> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10874-153> <http://lod.eurohelp.es/Column10> "Esox lucius" .
+<http://lod.eurohelp.es/Eenc_2_contig10874-153> <http://purl.uniprot.org/core/organism> "Esox lucius" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10878-289> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10878-289> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10896-509> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10896-509> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10908-583> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig10908-583> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10986-197> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_2_contig10986-197> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_2_contig10996-791> <http://lod.eurohelp.es/Column10> "Plecoglossus altivelis" .
+<http://lod.eurohelp.es/Eenc_2_contig10996-791> <http://purl.uniprot.org/core/organism> "Plecoglossus altivelis" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11003-837> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11003-837> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11048-595> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11048-595> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11092-798> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11092-798> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11094-676> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11094-676> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11097-763> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11097-763> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11146-379> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11146-379> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11164-209> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11164-209> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11232-467> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11232-467> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11234-264> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11234-264> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11312-660> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11312-660> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11326-650> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11326-650> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11347-293> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11347-293> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11368-628> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11368-628> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11425-521> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11425-521> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11488-731> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11488-731> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11495-717> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11495-717> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11541-233> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11541-233> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11548-276> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11548-276> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11579-164> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11579-164> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11595-644> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11595-644> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11643-764> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11643-764> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11755-607> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11755-607> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11845-410> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11845-410> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11913-224> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11913-224> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11928-478> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11928-478> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig11964-53> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig11964-53> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12084-610> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12084-610> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12144-651> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12144-651> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12183-405> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_2_contig12183-405> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12192-429> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12192-429> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12216-257> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12216-257> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12226-141> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12226-141> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12257-178> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12257-178> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12336-420> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12336-420> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12356-75> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12356-75> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12389-686> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12389-686> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12409-308> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12409-308> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12419-446> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12419-446> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12436-203> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12436-203> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12480-579> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12480-579> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12500-627> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12500-627> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12549-88> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12549-88> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12664-273> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12664-273> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12704-127> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12704-127> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12838-622> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12838-622> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12842-579> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12842-579> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12885-163> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12885-163> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12947-341> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12947-341> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig12978-388> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig12978-388> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13016-355> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13016-355> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13062-667> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13062-667> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13073-309> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13073-309> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13089-593> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13089-593> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13154-585> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13154-585> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13197-593> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13197-593> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13203-447> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13203-447> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13211-336> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13211-336> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13285-633> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13285-633> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13368-277> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13368-277> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13402-274> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13402-274> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13410-192> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13410-192> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13430-479> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13430-479> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13445-139> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13445-139> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13503-336> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13503-336> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13519-356> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13519-356> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13581-136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13581-136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13649-344> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13649-344> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13663-467> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13663-467> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13715-421> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13715-421> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13726-307> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13726-307> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13765-285> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13765-285> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13856-213> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13856-213> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13904-174> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13904-174> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13917-143> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13917-143> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig13924-314> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig13924-314> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14041-174> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14041-174> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14048-607> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14048-607> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14106-64> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14106-64> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14110-54> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14110-54> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14222-103> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14222-103> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14389-196> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14389-196> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14462-339> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14462-339> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14508-502> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14508-502> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14621-227> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14621-227> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14746-452> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14746-452> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14791-275> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14791-275> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14985-164> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14985-164> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14997-184> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14997-184> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig14997-495> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig14997-495> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15019-184> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15019-184> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15042-563> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15042-563> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15069-264> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15069-264> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15090-329> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15090-329> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15110-68> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15110-68> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15112-245> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15112-245> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15118-446> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15118-446> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15137-320> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15137-320> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15195-497> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15195-497> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15294-519> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15294-519> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15297-493> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15297-493> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15301-358> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15301-358> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15344-179> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15344-179> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15376-517> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15376-517> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15390-293> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15390-293> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15412-477> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15412-477> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15427-230> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15427-230> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15441-134> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15441-134> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15501-328> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15501-328> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15501-427> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15501-427> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15577-228> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15577-228> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15607-449> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15607-449> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15631-246> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15631-246> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15661-407> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15661-407> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15692-126> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15692-126> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15767-220> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15767-220> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15882-258> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15882-258> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15907-146> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15907-146> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig15967-90> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig15967-90> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16037-186> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16037-186> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16042-406> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16042-406> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16082-193> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16082-193> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16226-137> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16226-137> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16343-385> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16343-385> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16520-460> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16520-460> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16563-221> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16563-221> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16603-327> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16603-327> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16627-200> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16627-200> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16635-134> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16635-134> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16675-457> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16675-457> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16686-370> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16686-370> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16842-415> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16842-415> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig16851-504> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig16851-504> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17032-142> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17032-142> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17133-110> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17133-110> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17284-255> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17284-255> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17391-449> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17391-449> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17561-323> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17561-323> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17601-124> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17601-124> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17675-295> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17675-295> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17688-325> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17688-325> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17728-375> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17728-375> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17788-417> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17788-417> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17845-112> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17845-112> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17874-286> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17874-286> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig17925-356> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig17925-356> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18053-133> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18053-133> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18112-309> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18112-309> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18156-381> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18156-381> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18229-331> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18229-331> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18230-271> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18230-271> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18300-384> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18300-384> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18337-415> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18337-415> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18350-55> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18350-55> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18393-249> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18393-249> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18444-248> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18444-248> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18482-136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18482-136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18501-386> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18501-386> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18543-213> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18543-213> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18638-75> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18638-75> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18662-251> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18662-251> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18784-413> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18784-413> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18930-30> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18930-30> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18950-196> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18950-196> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig18951-380> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig18951-380> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19001-265> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19001-265> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19061-167> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19061-167> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19265-392> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19265-392> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19272-217> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19272-217> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19301-337> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19301-337> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19326-51> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19326-51> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19344-399> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19344-399> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19450-131> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19450-131> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19516-379> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19516-379> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19549-355> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19549-355> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19756-185> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19756-185> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19839-168> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19839-168> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19875-49> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19875-49> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19948-111> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19948-111> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19968-54> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19968-54> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19978-334> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19978-334> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig19990-51> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig19990-51> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20134-350> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20134-350> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20155-264> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20155-264> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20160-190> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20160-190> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20192-230> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20192-230> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20201-62> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20201-62> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20206-167> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20206-167> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20310-227> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20310-227> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20318-371> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20318-371> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20338-400> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20338-400> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20392-190> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20392-190> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20396-200> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20396-200> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20397-275> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20397-275> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20543-319> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20543-319> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20691-107> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20691-107> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig20726-287> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig20726-287> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21055-257> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21055-257> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21084-136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21084-136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21147-183> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21147-183> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21285-76> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21285-76> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21373-359> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21373-359> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21439-22> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21439-22> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21653-347> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21653-347> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21666-342> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21666-342> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21799-314> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21799-314> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21826-147> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21826-147> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21894-211> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21894-211> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21920-312> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21920-312> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig21935-22> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig21935-22> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22185-308> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22185-308> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22219-320> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22219-320> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22293-103> <http://lod.eurohelp.es/Column10> "Osmerus mordax" .
+<http://lod.eurohelp.es/Eenc_2_contig22293-103> <http://purl.uniprot.org/core/organism> "Osmerus mordax" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22304-295> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22304-295> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22315-253> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22315-253> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22345-138> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22345-138> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22453-259> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22453-259> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22558-298> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22558-298> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22610-140> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22610-140> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22662-102> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22662-102> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22686-215> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22686-215> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig22747-242> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig22747-242> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23085-215> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23085-215> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23087-168> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23087-168> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23144-146> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23144-146> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23284-133> <http://lod.eurohelp.es/Column10> "Xenopus (Silurana) tropicalis" .
+<http://lod.eurohelp.es/Eenc_2_contig23284-133> <http://purl.uniprot.org/core/organism> "Xenopus (Silurana) tropicalis" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23308-161> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23308-161> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23485-44> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23485-44> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23493-107> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23493-107> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23604-92> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23604-92> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23785-47> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23785-47> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23908-84> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23908-84> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23933-222> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23933-222> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig23945-49> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig23945-49> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig24060-114> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig24060-114> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig24114-180> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig24114-180> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig24211-104> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig24211-104> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_2_contig24350-51> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_2_contig24350-51> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig00862-52> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig00862-52> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig01017-83> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig01017-83> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig01036-192> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_3_contig01036-192> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_3_contig01593-26> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig01593-26> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig01663-178> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig01663-178> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig01879-116> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_3_contig01879-116> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_3_contig02315-303> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig02315-303> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig02618-91> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig02618-91> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig03447-227> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig03447-227> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig03447-439> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig03447-439> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig04314-173> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig04314-173> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05006-517> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig05006-517> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05209-720> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig05209-720> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05299-421> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig05299-421> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05302-844> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig05302-844> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05691-301> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig05691-301> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig05995-88> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig05995-88> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig06016-77> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig06016-77> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig06715-236> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig06715-236> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig06740-154> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig06740-154> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig07389-45> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig07389-45> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig07748-45> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig07748-45> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig07964-201> <http://lod.eurohelp.es/Column10> "Oreochromis niloticus" .
+<http://lod.eurohelp.es/Eenc_3_contig07964-201> <http://purl.uniprot.org/core/organism> "Oreochromis niloticus" .
 
-<http://lod.eurohelp.es/Eenc_3_contig08633-52> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig08633-52> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig08872-1721> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig08872-1721> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig08916-74> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig08916-74> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig08939-974> <http://lod.eurohelp.es/Column10> "Epinephelus coioides" .
+<http://lod.eurohelp.es/Eenc_3_contig08939-974> <http://purl.uniprot.org/core/organism> "Epinephelus coioides" .
 
-<http://lod.eurohelp.es/Eenc_3_contig08951-1336> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig08951-1336> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09018-107> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09018-107> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09042-29> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09042-29> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09044-925> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09044-925> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09110-79> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09110-79> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09123-748> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09123-748> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09228-461> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09228-461> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09229-1040> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09229-1040> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09328-617> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09328-617> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09410-1054> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09410-1054> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09483-47> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09483-47> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09674-179> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig09674-179> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig09916-675> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig09916-675> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10021-891> <http://lod.eurohelp.es/Column10> "Miichthys miiuy" .
+<http://lod.eurohelp.es/Eenc_3_contig10021-891> <http://purl.uniprot.org/core/organism> "Miichthys miiuy" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10179-938> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10179-938> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10196-446> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10196-446> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10561-663> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10561-663> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10589-510> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10589-510> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10666-278> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10666-278> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10697-194> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10697-194> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig10732-750> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig10732-750> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11002-686> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig11002-686> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11025-141> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11025-141> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11208-835> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11208-835> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11263-453> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11263-453> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11300-370> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11300-370> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11327-568> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11327-568> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11413-235> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11413-235> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11549-125> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11549-125> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11556-86> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11556-86> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11570-259> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11570-259> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11587-230> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11587-230> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11815-752> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11815-752> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11845-204> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11845-204> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig11983-375> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig11983-375> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig12232-465> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig12232-465> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig12556-261> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig12556-261> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig12568-484> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig12568-484> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig12713-503> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig12713-503> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig12913-470> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig12913-470> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13123-535> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13123-535> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13134-443> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13134-443> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13164-300> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13164-300> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13741-279> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13741-279> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13819-359> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13819-359> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig13921-389> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig13921-389> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14033-228> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14033-228> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14033-344> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14033-344> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14128-515> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14128-515> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14349-327> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14349-327> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14423-60> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14423-60> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14430-137> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14430-137> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14513-383> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14513-383> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14594-413> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14594-413> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig14889-266> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig14889-266> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig15033-120> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig15033-120> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig15041-380> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig15041-380> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig15682-410> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig15682-410> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16171-214> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16171-214> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16226-47> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16226-47> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16558-364> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16558-364> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16589-55> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16589-55> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16675-290> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16675-290> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16703-86> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16703-86> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16776-229> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16776-229> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig16976-152> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig16976-152> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig17049-136> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig17049-136> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig17512-394> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig17512-394> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig17707-401> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig17707-401> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig17823-97> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig17823-97> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig18340-344> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_3_contig18340-344> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_3_contig18344-124> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig18344-124> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig18353-454> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig18353-454> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig18596-320> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig18596-320> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19201-362> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19201-362> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19209-396> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19209-396> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19260-313> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19260-313> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19346-213> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19346-213> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19824-100> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19824-100> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig19838-277> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig19838-277> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig20006-295> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig20006-295> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig20479-27> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig20479-27> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig20948-288> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig20948-288> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig21503-72> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig21503-72> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig21533-40> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig21533-40> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig22265-209> <http://lod.eurohelp.es/Column10> "Esox lucius" .
+<http://lod.eurohelp.es/Eenc_3_contig22265-209> <http://purl.uniprot.org/core/organism> "Esox lucius" .
 
-<http://lod.eurohelp.es/Eenc_3_contig22837-258> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig22837-258> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig22910-179> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig22910-179> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_3_contig22957-53> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_3_contig22957-53> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig01531-120> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig01531-120> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig03651-175> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig03651-175> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig04765-138> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig04765-138> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig05197-434> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig05197-434> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig06049-129> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig06049-129> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig07913-57> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig07913-57> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig08917-375> <http://lod.eurohelp.es/Column10> "Danio rerio" .
+<http://lod.eurohelp.es/Eenc_4_contig08917-375> <http://purl.uniprot.org/core/organism> "Danio rerio" .
 
-<http://lod.eurohelp.es/Eenc_4_contig08921-775> <http://lod.eurohelp.es/Column10> "Salmo salar" .
+<http://lod.eurohelp.es/Eenc_4_contig08921-775> <http://purl.uniprot.org/core/organism> "Salmo salar" .
 
-<http://lod.eurohelp.es/Eenc_4_contig09237-1336> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig09237-1336> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig09847-1009> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig09847-1009> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig10033-903> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig10033-903> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig10656-401> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig10656-401> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig11193-426> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig11193-426> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig11964-384> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig11964-384> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig17774-412> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig17774-412> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig20580-361> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig20580-361> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_4_contig23316-179> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_4_contig23316-179> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_5_contig06596-88> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_5_contig06596-88> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_5_contig10920-50> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_5_contig10920-50> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_5_contig15332-218> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_5_contig15332-218> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_5_contig22137-197> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_5_contig22137-197> <http://purl.uniprot.org/core/organism> "-" .
 
-<http://lod.eurohelp.es/Eenc_6_contig09716-134> <http://lod.eurohelp.es/Column10> "-" .
+<http://lod.eurohelp.es/Eenc_6_contig09716-134> <http://purl.uniprot.org/core/organism> "-" .

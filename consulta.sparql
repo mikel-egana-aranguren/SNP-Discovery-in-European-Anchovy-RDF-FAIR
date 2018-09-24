@@ -1,0 +1,5 @@
+SELECT * WHERE { 
+    ?motif <http://lod.eurohelp.es/Sequence> ?sequence .
+	?motif <http://purl.uniprot.org/core/organism> ?taxon .
+    FILTER(CONTAINS(?taxon, "Salmo"))
+} 
